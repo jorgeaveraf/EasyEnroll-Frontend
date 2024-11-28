@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "406521536502",
+    "firebase_url": "https://flutter-imgtxt-default-rtdb.firebaseio.com",
+    "project_id": "flutter-imgtxt",
+    "storage_bucket": "flutter-imgtxt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406521536502:android:75bebe3c3ade8a4794f1d7",
+        "android_client_info": {
+          "package_name": "com.example.easyenroll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406521536502-nr7dv2b4l9kspi96v5rn7gukcnleovq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easyenroll",
+            "certificate_hash": "b5060adac60226296b179839c98835511a2f03ff"
+          }
+        },
+        {
+          "client_id": "406521536502-c8da8iptjc5939vl1tdj0acm3uqcq88u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSzvAa9Hr6oy0LebG1AndhcbBWZ9cqr20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406521536502-c8da8iptjc5939vl1tdj0acm3uqcq88u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
